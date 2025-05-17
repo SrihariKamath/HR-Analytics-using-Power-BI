@@ -69,10 +69,10 @@ This project demonstrates the power of Microsoft Power BI in HR analytics, enabl
 ## 📷 Screenshots
 
 **Overview Page**  
-![Overview](./screenshots/Overview.jpg)
+![Overview](./Screenshots/Overview.jpg)
 
 **Attrition Page**  
-![Attrition](./screenshots/Attrition.jpg)
+![Attrition](./Screenshots/Attrition.jpg)
 
 ---
 
